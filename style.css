@@ -19,7 +19,7 @@ h3 {
 
 h5 {
   margin: 0;
-  font-size: 1.0em;
+  font-size: 1.2em;
   font-weight: normal;
 }
 
@@ -39,9 +39,9 @@ h6 {
 
 .leaflet-control-custom {
   padding: 6px 8px;
-  background: white;
+  background: black;
   box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-  color: #000;
+  color: #ffffff;
   border-radius: 5px;
 }
 
