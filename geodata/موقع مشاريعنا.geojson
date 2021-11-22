@@ -6,7 +6,8 @@
       "properties": {
         "stroke": "#ff0000",
         "stroke-width": 3,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "Description": "40 فدان - بنشاط عمرانً اداري تجاري سٌاحً ترفٌهً )مختلط ("
       },
       "geometry": {
         "type": "LineString",
