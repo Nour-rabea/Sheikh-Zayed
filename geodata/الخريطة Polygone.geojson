@@ -10,7 +10,7 @@
         "fill": "#2b00ff",
         "fill-opacity": 0.5,
         "Name": "مدينة الشيخ زايد",
-        "Area": "10386.75 Acre"
+        "Area": "10,386.75 Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -113,7 +113,7 @@
         "fill": "#ff0000",
         "fill-opacity": 0.5,
         "Name": "الحزام الاخضر",
-        "Area": "17021 Acre"
+        "Area": "17,021 Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -164,7 +164,7 @@
         "fill-opacity": 0.5,
         "stroke-width": "",
         "Name": "الثورة الخضراء",
-        "Area": "2584 Acre"
+        "Area": "2,584 Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -215,7 +215,7 @@
         "fill": "#00ff04",
         "fill-opacity": 0.5,
         "Name": "امتداد الشيخ زايد",
-        "Area": "8336 Acre"
+        "Area": "8,336 Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -368,7 +368,8 @@
         "stroke-opacity": 1,
         "fill": "#ff00ea",
         "fill-opacity": 0.5,
-        "Name": "حدائق اكتوبر"
+        "Name": "حدائق اكتوبر",
+        "Area": "27,000  Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -450,7 +451,8 @@
         "stroke-opacity": 1,
         "fill": "#ff00ae",
         "fill-opacity": 0.5,
-        "Name": "حدائق الاهرام"
+        "Name": "حدائق الاهرام",
+        "Area": "1,557 Acre"
       },
       "geometry": {
         "type": "Polygon",
@@ -512,7 +514,8 @@
         "stroke-opacity": 1,
         "fill": "#ff0000",
         "fill-opacity": 0.5,
-        "Name": "مدينة 6 اكتوبر الجديده"
+        "Name": "مدينة 6 اكتوبر الجديده",
+        "Area": "90,000"
       },
       "geometry": {
         "type": "Polygon",
@@ -570,7 +573,8 @@
         "stroke-opacity": 1,
         "fill": "#002aff",
         "fill-opacity": 0.5,
-        "Name": "مدينة 6 اكتوبر"
+        "Name": "مدينة 6 اكتوبر",
+        "Area": "52,000"
       },
       "geometry": {
         "type": "Polygon",
