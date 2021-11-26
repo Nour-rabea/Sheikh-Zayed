@@ -1,2 +1,2 @@
 - Leaflet Map https://nour-rabea.github.io/Sheikh-Zayed/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1JPWN5AwihGDgzXA-di1Eel8iBf3c0sI_LOWLV4-nZlk/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1CGUFsXfd9Ul0xlxUegbF1j8R7VuA0Fw2wGCHoNmMzPg/edit#gid=0
